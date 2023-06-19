@@ -1,8 +1,4 @@
 # Özerali Burkaz 21831088
-# Meriç Memiş 21831424
-# Bilal Tayyip Usta 21831606
-# Samet Berkant Özdemir 21831476
-# Emir Taşoğlu 21831586
 import random
 
 class Delikanlı:
@@ -392,7 +388,7 @@ while startingp != 44 and hero_newhealth > 0:
     if hero_newhealth > 0:
         print("You are here now >>", startingp)
 if startingp == 44 and hero_health > 0:
-    print("Mentor!You surprised me.Congratulations YOU WON!")
+    print("Awesome! You surprised me. Congratulations YOU WON!")
 
 
 
