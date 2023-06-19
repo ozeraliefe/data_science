@@ -1,4 +1,4 @@
-#ÖZERALİ BURKAZ 21831088,MERİÇ MEMİŞ 21831424
+#ÖZERALİ BURKAZ 21831088
 import random
 
 my_city = []
